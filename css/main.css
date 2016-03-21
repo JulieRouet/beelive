@@ -1,0 +1,55 @@
+.intro-heading {
+  font-size: 50% !important;
+}
+
+.navbar {
+  background-color: black !important;
+}
+
+.navbar-default {
+  padding: 0 !important;
+
+}
+
+header .intro-text {
+  padding: 150px !important;
+  margin: 0;
+
+}
+.two {
+    background-image: url(../img/roubaix-ville.jpg)!important;
+  }
+
+
+/*header {
+    text-align: center;
+    color: black !important;
+    font-size: 50px;
+}*/
+.beelive {
+  margin-left: 15%;
+  margin-bottom: 15%;
+  padding: 0;
+}
+.beelivein {
+  margin-left: 15%;
+  margin-bottom: 5%;
+  padding: 0;
+}
+section h3.section-subheading {
+  line-height: 27px;
+}
+
+p {
+    font-size: 18px !important;
+    line-height: 1.75 !important;
+  }
+
+
+
+section#creation {
+  background-image: url(../img/alveoles.jpg);
+background-position: center;
+background-repeat: no-repeat;
+
+}
